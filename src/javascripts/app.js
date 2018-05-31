@@ -1,5 +1,7 @@
 $(document).ready(function () {
 
+
+
   var numb = 0;
   var boxes = $('.box').length;
   $('.success').hide()
